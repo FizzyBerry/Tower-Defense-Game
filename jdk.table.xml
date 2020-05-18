@@ -1,0 +1,90 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.7 (project_1)" />
+      <type value="Python SDK" />
+      <homePath value="C:\Marysia\programy\Python\project_1\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37" type="simple" />
+            <root url="file://C:/Marysia/programy/Python/project_1/venv" type="simple" />
+            <root url="file://C:/Marysia/programy/Python/project_1/venv/Lib/site-packages" type="simple" />
+            <root url="jar://C:/Marysia/programy/Python/project_1/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://C:/Marysia/programy/Python/project_1/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/-343450037" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/Marysia/programy/Python/project_1" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (Zajęcia 1)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="C:\Marysia\programy\Python\Zajęcia 1\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37" type="simple" />
+            <root url="file://C:/Marysia/programy/Python/Zajęcia 1/venv" type="simple" />
+            <root url="file://C:/Marysia/programy/Python/Zajęcia 1/venv/Lib/site-packages" type="simple" />
+            <root url="jar://C:/Marysia/programy/Python/Zajęcia 1/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://C:/Marysia/programy/Python/Zajęcia 1/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/-1173548778" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/Marysia/programy/Python/Zajęcia 1" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (Tower_Defense)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="C:\Marysia\programy\Python\Tower_Defense\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python37" type="simple" />
+            <root url="file://C:/Marysia/programy/Python/Tower_Defense/venv" type="simple" />
+            <root url="file://C:/Marysia/programy/Python/Tower_Defense/venv/Lib/site-packages" type="simple" />
+            <root url="jar://C:/Marysia/programy/Python/Tower_Defense/venv/Lib/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://C:/Marysia/programy/Python/Tower_Defense/venv/Lib/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.2/system/python_stubs/-455692406" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="C:/Marysia/programy/Python/Tower_Defense" />
+    </jdk>
+  </component>
+</application>
