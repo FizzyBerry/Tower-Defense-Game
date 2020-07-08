@@ -5,6 +5,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+Game.spec
+.idea/
+test/
+
 # C extensions
 *.so
 
